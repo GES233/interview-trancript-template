@@ -4,7 +4,7 @@
 
 ## 用例
 
-参见，[exmaple_transcript.typ](exmaple_transcript.typ) 以及 [exmaple_transcript.pdf](exmaple_transcript.pdf) 。
+参见 [exmaple_transcript.typ](exmaple_transcript.typ) 以及 [exmaple_transcript.pdf](exmaple_transcript.pdf) 。
 
 ## 路线图
 
